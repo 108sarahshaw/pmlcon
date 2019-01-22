@@ -17,7 +17,8 @@
               <span class="nav-button-text">Register</span>
             </a>
           </div>
-        </div>
+<!-- Schedule Button  -->
+<!--         </div>
         <div class="col-xs-15">
           <div class="row">
             <a href="https://playmakelearn2018.sched.com" class="text-white" target="_blank">
@@ -25,7 +26,7 @@
               <span class="nav-button-text">Schedule</span>
             </a>
           </div>
-        </div>
+        </div> -->
         <div class="col-xs-15">
           <div class="row">
             <a href="/#lodging" class="text-white">
