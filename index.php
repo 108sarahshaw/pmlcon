@@ -14,16 +14,20 @@
         <div class="col-sm-6 pad60 mar50-top bg-white">
           <div class="row text-center">
             <h2 class="text-mblue">Save the Date!</h2>
-            <h3 class="text-dblue">August 13-14, 2018</h3>
+            <h3 class="text-dblue">August 8-9, 2019</h3>
             <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
-          </div>
+<!-- 
+BEGIN: Register button with registration prices 
+-->
+<!--           </div>
           <div class="row mar20-top mar20-bot">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
           </div>
           <div class="row">
             <p class="text-center text-mblue">2-Day Registration: <span class="text-bold">$150</span></p>
             <p class="text-center text-mblue">1-Day Registration: <span class="text-bold">$100</span></p>
-          </div>
+          </div> -->
+<!-- END: Register button with prices -->
           <!-- <div class="row mar20-top">
             <p class="text-dblue text-center">
               Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
@@ -62,12 +66,12 @@
             <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">2018 Conference Details</h3>
-            <p>
+            <h3 class="text-white">Stay tuned for 2019 details.</h3>
+<!--             <p>
               <span class="text-lblue">We are excited to present the </span>
               <a href="https://playmakelearn2018.sched.com" target="_blank">schedule for the 2018 Play Make Learn Conference</a>
               <span class="text-lblue">this year's conference will include some of the favorites from last year including the arcade area and sessions on everything from making to VR as well as many more interactive sessions allowing for participants to learn through play. In addition to our demo event where participants will play new and exciting games from developers and educators, there will be opportunities to learn from students about the work they have been producing as well. </span>
-            </p>
+            </p> -->
           </div>
         </div>
       </div><!-- END: Overview -->
@@ -86,10 +90,11 @@
     <div id="keynote"></div>
       <div class="row bg-white pad60">
         <div class="row pad10-left">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Stay tuned for 2019 Keynote Presentations </h2>
         </div>
       <!-- Emery Petchauer -->
-        <div class="row">
+<!-- BEGIN: Keynote speaker information  -->
+<!--         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
               <img class="full" src="img/portraits/portrait-emery-petchauer.png" />
@@ -104,9 +109,9 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Emery Petchauer -->
+        </div><!-- END: Emery Petchauer --> -->
       <!-- Jane Werner -->
-        <div class="row">
+<!--         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
               <img class="full" src="img/portraits/portrait-jane-werner.png" />
@@ -120,9 +125,10 @@
                 Jane Werner's 34 years of museum experience includes 26 years at The Children's Museum of Pittsburgh where she served as Program Director, Deputy Director and currently Executive Director.  Werner leads the team responsible for all aspects of the Museum's mission and vision, exhibits, public programming, funding and operations. The Children's Museum of Pittsburgh expanded in November 2004 after the completion of a $29M capital campaign.  Attendance grew from 80,000 to currently 300,000. The project was the recipient of the 2006 American Institute of Architects National Award and National Trust for Historic Preservation Award. The Museum received the 2009 National Medal from the Institute of Museum and Library Services for its work in the community and in 2011 the Children's Museum of Pittsburgh was named one of the top ten children's museums by Parents Magazine. Under Werner's leadership and in partnership with the Warhol Museum, the Children's Museum reopened the closed New Hazlett Theater, raising over $2million and creating a separate 501c3 organization. In 2013, the museum was cited by AAM Press in the book <u>Magnetic</u> as one of six museums <i>with powerful internal alignment and a compelling vision allowing it to attract the critical resources for success</i>.
               </p>
             </div>
-          </div>
+          </div> -->
         </div><!-- END: Jane Werner -->
       </div><!-- END: Keynote -->
+<!-- END: Keynote speaker information -->
     <!-- Story -->
     <div id="story"></div>
       <div class="row">
